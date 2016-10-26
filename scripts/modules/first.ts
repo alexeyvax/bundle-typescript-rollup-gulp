@@ -5,7 +5,6 @@ function main(): void
     const first: string = 'Aleksey';
 
     new Person( first );
-    
 }
 
 export {

@@ -1,1 +1,0 @@
-{"version":3,"names":[],"mappings":"","sources":["index.ts"],"sourcesContent":["import first from './modules/first';\nimport second from './modules/second';\n\nfirst();\nsecond();\n"],"file":"index.js"}
